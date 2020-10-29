@@ -1,18 +1,26 @@
-asgiref==3.2.10
-dj-database-url==0.5.0
+# Django
 Django==3.0.8
+
+# Django database url
+dj-database-url==0.5.0
+
+# Django crispy forms
 django-crispy-forms==1.9.2
+
+# Django heroku
 django-heroku==0.3.1
+
+# Gunicorn
 gunicorn==20.0.4
+
+# Mysql connector
 mysql-connector-python==8.0.18
+
+# Numpy
 numpy==1.19.1
-opencv-python==4.3.0.36
+
+# Pillow
 Pillow==7.2.0
-protobuf==3.10.0
-psycopg2==2.8.6
-pytz==2020.1
-six==1.13.0
-sqlparse==0.3.1
-virtualenv==16.7.7
-virtualenvwrapper-win==1.2.6
-whitenoise==5.2.0
+
+# OpenCV python
+opencv-python==4.3.0.36
