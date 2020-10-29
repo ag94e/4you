@@ -1,1 +1,1 @@
-web: gunicorn 4you.wsgi --log-file -
+web: gunicorn 4you.wsgi
